@@ -1,2 +1,0 @@
-# Initialization
-npm i -g nestjs/cli installs nestjs and it's CLI tool
